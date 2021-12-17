@@ -1,0 +1,26 @@
+.ma-titulo {
+    text-align: center;
+    font: oblique bold 120% cursive;
+    color: brown;
+}
+
+.errores {
+    background: red;
+    font-size: 15px;
+    display: none;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}
+.ana{
+    background-color: burlywood;
+}
+
+.registrar{
+  margin-left: 5px;
+  border-color: black;
+}
+
+.pi{
+    border: 0px;
+}

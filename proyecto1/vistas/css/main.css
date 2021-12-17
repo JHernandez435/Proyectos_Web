@@ -1,0 +1,12 @@
+.ma-titulo {
+    text-align: center;
+}
+
+.errores {
+    background: red;
+    font-size: 15px;
+    display: none;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}

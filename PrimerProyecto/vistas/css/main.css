@@ -1,0 +1,37 @@
+.ma-titulo {
+    text-align: center;
+    color: bisque;
+    background-color: black;
+    
+}
+
+
+.errores {
+    background: red;
+    font-size: 15px;
+    display: none;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+body {
+    background: bisque;
+    font-family:  Comic Sans MS;
+    
+    
+     
+}
+h1 {
+    font-family:  Forte;
+    font-size: 70px;
+}
+
+
+#tablaEjemplo{
+    background-color: wheat;
+    font-family:  Comic Sans MS;
+    font-size: 19px;
+    border: black 4px solid; 
+    
+}

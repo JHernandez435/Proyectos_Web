@@ -1,0 +1,50 @@
+.ma-titulo {
+    text-align: center;
+}
+
+.ma-total {
+    text-align: right;
+}
+
+.errores {
+    background: red;
+    font-size: 15px;
+    display: none;
+    color: white;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+#modal-color {
+    Background-color: #95b6fc;
+    
+}
+
+#tituloModal{
+    text-align: center;
+    background-color: aqua;
+    color: white;
+}
+#contenidoCheckout{
+    padding: 0px 20px;
+}
+#tablaEjemplo {
+    border: #fccc95 4px solid;
+    Background-color: #7472fd;
+}
+
+.fondo {
+    Background-color: #7d9ffd;
+}
+
+.form-control {
+    background-color: rgb(92, 156, 252);
+}
+
+.brayam {
+    background-color: rgb(92, 156, 252);
+}
+
+.breadcrumb {
+    background: rgba(128, 121, 231, 0.959);
+}

@@ -1,0 +1,13 @@
+.footer-style {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+.mc-contenedor {
+    height: 780px;
+}
